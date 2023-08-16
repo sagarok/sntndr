@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Sntndr.Api/bin/Debug/net7.0
+/Sntndr.Api/obj
