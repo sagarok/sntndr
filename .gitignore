@@ -5,3 +5,5 @@
 /.vs
 /Sntndr.Api/bin/Debug/net7.0
 /Sntndr.Api/obj
+/Sntndr.Api.Tests/bin/Debug/net7.0
+/Sntndr.Api.Tests/obj
